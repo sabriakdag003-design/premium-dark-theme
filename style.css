@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background: #0d0d0d;
+  color: #e6e6e6;
+  font-family: 'Montserrat', sans-serif;
+}
+.hero {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(#000, #111);
+}
+h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #fff;
+}
+.tagline {
+  font-size: 18px;
+  color: #aaa;
+}
+.section {
+  padding: 40px 20px;
+  border-bottom: 1px solid #222;
+}
+.section h2 {
+  font-size: 28px;
+  color: #c9c9c9;
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #000;
+  color: #666;
+  font-size: 14px;
+}
